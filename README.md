@@ -1,4 +1,4 @@
-4-PotionEffects
+PotionEffects
 ==============
 This plugin introduces the concept of PotionEffects, and showcases the creation and use of them.
 
