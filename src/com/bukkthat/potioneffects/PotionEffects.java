@@ -47,7 +47,7 @@ public class PotionEffects extends JavaPlugin {
 				 */
 				player.addPotionEffect(new PotionEffect(PotionEffectType.SLOW, 100, 1));
 				// Tell them what happened.
-				player.sendMessage(ChatColor.GOLD + "You being to feel aged!");
+				player.sendMessage(ChatColor.GOLD + "You begin to feel aged!");
 			} else {
 				// Yell at the console, because it can't be slowed.
 				sender.sendMessage(ChatColor.RED + "Only a player can do that!");
