@@ -1,0 +1,9 @@
+main: com.bukkthat.potioneffects.PotionEffects
+name: PotionEffects
+version: 1.0.0
+
+commands:
+  dizzy:
+    description: Makes you dizzy.
+  slow:
+    description: Makes you slow down
